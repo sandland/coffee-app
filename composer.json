@@ -1,0 +1,15 @@
+{
+    "name": "tayap/coffee-app",
+    "autoload": {
+        "psr-4": {
+            "": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "poomnan",
+            "email": "pearphong.th.55@ubu.ac.th"
+        }
+    ],
+    "require": {}
+}
